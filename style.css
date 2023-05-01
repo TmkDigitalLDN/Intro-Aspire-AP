@@ -4635,8 +4635,8 @@ a.loginhere-link:hover {
 /* Make the page responsive */
 @media screen and (max-width: 600px) {
     .logo img {
-        width: 150px;
-        height: 150px;
+        width: 100px;
+        height: 100px;
         object-fit: cover;
       }
 
@@ -4661,9 +4661,7 @@ a.loginhere-link:hover {
     text-align: center;
   }
   
-  .logo {
-    margin-bottom: 30px;
-  }
+ 
   
   .logo img {
     width: 180px;
